@@ -30,4 +30,3 @@
 
 ## 📫 Como me contatar
 - [LinkedIn](https://www.linkedin.com/in/marina-cesconeto-dos-santos-a17563216/)
-- [E-mail](santoscmarina@hotmail.com)
