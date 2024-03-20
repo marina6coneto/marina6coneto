@@ -18,15 +18,11 @@
 - 🐍 Atualmente aprimorando minhas habilidades em Python.
 - 🧪 Explorando ferramentas e bibliotecas para análise de dados.
 
-## Interesses Pessoais
-- 📚 Apaixonada por Harry Potter.
-- ⚽ Amo futebol.
-
-## Como me encontrar
+## 📫 Como me encontrar
 - GitHub: [@marina6coneto](https://github.com/marina6coneto)
+- [LinkedIn](https://www.linkedin.com/in/marina-cesconeto-dos-santos-a17563216/)
 
 ## 🤝 Vamos colaborar?
 - Estou aberta a colaborações e projetos interessantes. Fique à vontade para entrar em contato!
 
-## 📫 Como me contatar
-- [LinkedIn](https://www.linkedin.com/in/marina-cesconeto-dos-santos-a17563216/)
+
