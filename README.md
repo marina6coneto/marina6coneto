@@ -1,10 +1,11 @@
 # 👋 Olá, eu sou a Marina Cesconeto dos Santos!
 
 ## Sobre mim
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS), 25 anos.
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS).
 - 🎓 Formada em Engenharia de Aquicultura pela UFSC.
 - 🖥️ Estagiária na área de TI na Prefeitura Municipal de Palhoça, Santa Catarina.
-- 🐍 Focada em aprender Python.
+**- 🐍 Focada em aprender Python.**
+**- ☕ Também estudando Java.**
 
 ## Interesses Profissionais
 - 💻 Tenho interesse na área de Desenvolvimento Back-end.
@@ -17,6 +18,7 @@
 ## Habilidades em Desenvolvimento
 - 🐍 Atualmente aprimorando minhas habilidades em Python.
 - 🧪 Explorando ferramentas e bibliotecas para análise de dados.
+- ☕ Estudando Java para expandir minhas habilidades em desenvolvimento.
 
 ## 📫 Como me encontrar
 - GitHub: [@marina6coneto](https://github.com/marina6coneto)
