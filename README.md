@@ -4,9 +4,8 @@
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS).
 - 🎓 Formada em Engenharia de Aquicultura pela UFSC.
 - 🖥️ Estagiária na área de TI na Prefeitura Municipal de Palhoça, Santa Catarina.
-**- 🐍 Focada em aprender Python.**
-  
-**- ☕ Também estudando Java.**
+- **🐍 Focada em aprender Python.**
+- **☕ Também estudando Java.**
 
 ## Interesses Profissionais
 - 💻 Tenho interesse na área de Desenvolvimento Back-end.
