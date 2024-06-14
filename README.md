@@ -5,6 +5,7 @@
 - 🎓 Formada em Engenharia de Aquicultura pela UFSC.
 - 🖥️ Estagiária na área de TI na Prefeitura Municipal de Palhoça, Santa Catarina.
 **- 🐍 Focada em aprender Python.**
+  
 **- ☕ Também estudando Java.**
 
 ## Interesses Profissionais
