@@ -1,30 +1,31 @@
-# 👋 Olá, eu sou a Marina Cesconeto dos Santos!
+# 👋 Hi, I'm Marina Cesconeto dos Santos!
 
-## Sobre mim
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS).
-- 🎓 Formada em Engenharia de Aquicultura pela UFSC.
-- 🖥️ Estagiária na área de TI na Prefeitura Municipal de Palhoça, Santa Catarina.
-- **🐍 Focada em aprender Python.**
-- **☕ Também estudando Java.**
+## About Me
+- 🎓 Student of Systems Analysis and Development.
+- 🎓 Degree in Aquaculture Engineering from UFSC.
+- 🖥️ IT Intern at the Municipality of Palhoça, Santa Catarina.
+- **🐍 Focused on learning Python.**
+- ☕ Also studying Java.
 
-## Interesses Profissionais
-- 💻 Tenho interesse na área de Desenvolvimento Back-end.
-- 📊 Também me interesso por Data Science e Análise de Dados.
+## Professional Interests
+- 💻 Interested in Back-end Development.
+- 📊 Fascinated by Data Science and Data Analysis.
 
-## Projetos que busco colaborar
-- 🔧 Projetos relacionados a Desenvolvimento Back-end em Python.
-- 📈 Iniciativas que envolvam análise e visualização de dados.
+## Projects I'm Interested In
+- 🔧 Back-end Development in Python.
+- 📈 Data analysis and visualization initiatives.
 
-## Habilidades em Desenvolvimento
-- 🐍 Atualmente aprimorando minhas habilidades em Python.
-- 🧪 Explorando ferramentas e bibliotecas para análise de dados.
-- ☕ Estudando Java para expandir minhas habilidades em desenvolvimento.
+## Skills
+- 🐍 Enhancing my Python skills.
+- 🧪 Exploring data analysis tools and libraries.
+- ☕ Learning Java to expand my development skills.
 
-## 📫 Como me encontrar
+## 📫 How to Reach Me
 - GitHub: [@marina6coneto](https://github.com/marina6coneto)
 - [LinkedIn](https://www.linkedin.com/in/marina-cesconeto-dos-santos-a17563216/)
 
-## 🤝 Vamos colaborar?
-- Estou aberta a colaborações e projetos interessantes. Fique à vontade para entrar em contato!
+## 🤝 Let's Collaborate
+- Open to collaborations and interesting projects. Feel free to reach out!
+
 
 
