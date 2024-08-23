@@ -5,13 +5,9 @@
 - 🖥️ IT Intern at the Municipality of Palhoça, SC, Brazil.
 - **🐍 Focused on learning Python and Back-end Development..**
   
-## Professional Interests
+## Interests
 - 💻 Back-end Development in Python.
 - 📊 Data Science & Analysis.
-
-## Projects I'm Interested In
-- 🔧 Back-end Development in Python.
-- 📈 Data analysis and visualization initiatives.
 
 ## Skills
 - 🐍 Python.
