@@ -23,9 +23,6 @@ Here are a few of my projects:
 1. **[100 Days of Code - Python](https://github.com/marina6coneto/100_days_of_code_python)** - A collection of projects created during the 100 Days of Code challenge.
 2. **[Fast API User Crud](https://github.com/marina6coneto/fastapi-user-crud)**
 
-## Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/marina-cesconeto-dos-santos-a17563216/)
-
 ---
 
 ## ⭐ Support My Work
