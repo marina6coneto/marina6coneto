@@ -4,6 +4,8 @@
 ![Java](https://img.shields.io/badge/Java-Learning-orange)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marina%20Cesconeto-blue?logo=linkedin)](https://www.linkedin.com/in/marina-cesconeto-dos-santos-a17563216/)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marina6coneto&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## About Me
 - 🎓 **Student of Systems Analysis and Development** | **Degree in Aquaculture Engineering** from UFSC.
 - 🖥️ **IT Intern** at the Municipality of Palhoça, SC, Brazil.
@@ -27,9 +29,3 @@ Here are a few of my projects:
 
 ## ⭐ Support My Work
 If you enjoyed any of my projects or found them helpful, please consider giving a star on GitHub. It helps others discover my work and motivates me to keep creating! Thank you! ⭐
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marina6coneto&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-
