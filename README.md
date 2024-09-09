@@ -28,6 +28,8 @@ Here are a few of my projects:
 ## ⭐ Support My Work
 If you enjoyed any of my projects or found them helpful, please consider giving a star on GitHub. It helps others discover my work and motivates me to keep creating! Thank you! ⭐
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marina6coneto&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
