@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Marina!
+# Hiii, I'm Marina!
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![Java](https://img.shields.io/badge/Java-Learning-orange)
