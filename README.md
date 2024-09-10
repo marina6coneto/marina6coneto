@@ -4,6 +4,12 @@
 ![Java](https://img.shields.io/badge/Java-Learning-orange)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marina%20Cesconeto-blue?logo=linkedin)](https://www.linkedin.com/in/marina-cesconeto-dos-santos-a17563216/)
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+</p>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marina6coneto&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## About Me
