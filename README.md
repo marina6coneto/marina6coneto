@@ -4,7 +4,7 @@
 ![Java](https://img.shields.io/badge/Java-Learning-orange)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marina%20Cesconeto-blue?logo=linkedin)](https://www.linkedin.com/in/marina-cesconeto-dos-santos-a17563216/)
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/marina6coneto" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
