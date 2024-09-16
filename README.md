@@ -36,6 +36,7 @@
 Here are a few of my projects:
 1. **[100 Days of Code - Python](https://github.com/marina6coneto/100_days_of_code_python)** - A collection of projects created during the 100 Days of Code challenge.
 2. **[Fast API User Crud](https://github.com/marina6coneto/fastapi-user-crud)**
+3. **[Hat Try On](https://github.com/marina6coneto/hat_try_on)**
 
 ---
 
