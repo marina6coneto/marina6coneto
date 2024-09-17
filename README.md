@@ -29,7 +29,7 @@
 ## Skills
 - 🐍 Python.
 - 🧪 Exploring data analysis tools and libraries.
-- ☕ Learning Java.
+- ☕ (trying to) Learning Java.
 
 ## Projects
 Here are a few of my projects:
