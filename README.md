@@ -27,7 +27,7 @@
 - Data Science & Analysis.
 
 ## Skills
-- 🐍 Python.
+- 🐍 Focus on Python.
 - 🧪 Exploring data analysis tools and libraries.
 - ☕ Learning Java.
 
