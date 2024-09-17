@@ -1,7 +1,6 @@
 # Hiii, I'm Marina!
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
-![Java](https://img.shields.io/badge/Java-Learning-orange)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marina%20Cesconeto-blue?logo=linkedin)](https://www.linkedin.com/in/marina-cesconeto-dos-santos-a17563216/)
 
 <p align="left">
