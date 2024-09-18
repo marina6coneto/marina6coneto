@@ -19,7 +19,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marina6coneto&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## About Me
+## 👩‍💻 About Me
 - 🎓 **Student of Systems Analysis and Development** | **Degree in Aquaculture Engineering** from UFSC.
 - 🖥️ **IT Intern** at the Municipality of Palhoça, SC, Brazil.
 - 🐍 **Focused on learning Python and Back-end Development.**
@@ -28,10 +28,11 @@
 - Back-end Development in Python.
 - Data Science & Analysis.
 
-## Skills
-- 🐍 Focus on Python.
-- 🧪 Exploring data analysis tools and libraries.
-- ☕ Learning Java.
+## 🛠️ Technologies & Tools
+- Languages: Python, Java, SQL, HTML, CSS, JavaScript
+- Frameworks/Libraries: Django, Tkinter, Flask
+- Version Control: Git, GitHub
+- Other Tools: VS Code, SEI, WordPress
 
 ## Projects
 Here are a few of my projects:
