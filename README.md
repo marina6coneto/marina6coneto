@@ -44,3 +44,6 @@ Here are a few of my projects:
 
 ## ⭐ Support My Work
 If you enjoyed any of my projects or found them helpful, please consider giving a star on GitHub. It helps others discover my work and motivates me to keep creating! Thank you! ⭐
+
+![Marina's GitHub stats](https://github-readme-stats.vercel.app/api?username=marina6coneto&show_icons=true&theme=radical)
+
