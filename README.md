@@ -47,3 +47,7 @@ If you enjoyed any of my projects or found them helpful, please consider giving 
 
 ![Marina's GitHub stats](https://github-readme-stats.vercel.app/api?username=marina6coneto&show_icons=true&theme=radical)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=marina6coneto&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
