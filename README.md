@@ -29,10 +29,15 @@
 - Data Science & Analysis.
 
 ## 🛠️ Technologies & Tools
-- Languages: Python, Java, SQL, HTML, CSS, JavaScript
-- Frameworks/Libraries: Django, Tkinter, Flask
-- Version Control: Git, GitHub
-- Other Tools: VS Code, SEI, WordPress
+
+- **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+- **Frameworks/Libraries**: ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![Tkinter](https://img.shields.io/badge/-Tkinter-FF0000?style=flat) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+
+- **Version Control**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+
+- **Other Tools**: ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![SEI](https://img.shields.io/badge/-SEI-FF4500?style=flat) ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+
 
 ## Projects
 Here are a few of my projects:
