@@ -5,17 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marina%20Cesconeto-blue?logo=linkedin)](https://www.linkedin.com/in/marina-cesconeto-dos-santos-a17563216/)
 
-<p align="left">
-  <a href="https://github.com/marina6coneto" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/marina6coneto" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/marina6coneto" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
-  </a>
-</p>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marina6coneto&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
