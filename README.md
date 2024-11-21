@@ -11,7 +11,7 @@
 
 ## 👩‍💻 About Me
 - 🎓 **Student of Systems Analysis and Development** | **Degree in Aquaculture Engineering** from UFSC.
-- 🖥️ **DATA Intern** at DBC Company, Porto Alegre, Brazil (home office).
+- 🖥️ **DATA Intern** at DBC Company, Porto Alegre, Brazil (remote work).
 - 🐍 **Focused on learning Python and Back-end Development.**
 
 ## Interests
